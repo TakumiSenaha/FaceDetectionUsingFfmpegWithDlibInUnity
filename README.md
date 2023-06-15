@@ -11,6 +11,6 @@ In a Unity environment, images streamed using FFmpeg are Mat-converted using Ope
 5. Import Runtime Inspector & Hierarchy.
 6. Import In-game Debug Console.
 7. Import FfmpegWithOpenCVForUnityExample.unitypackage.
-8. ～Rewrite the C# script named ~ in ~ to the code named
+8. ～Rewrite the C# script named FfplayToMatHelperExample.cs in Assets/FfmpegWithOpenCVForUnityExample/FfplayToMatHelperExample/ to the code named FfPlayStreamingFaceDetectionExample.cs
 
 9. a
