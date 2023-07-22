@@ -4,7 +4,9 @@ In a Unity environment, images streamed using FFmpeg are Mat-converted using Ope
 ## Environmental Construction
 1. Create a Unity project with a 3D template.
 2. Window→Package Manager → Set "Packages" to "My Assets" in the upper left corner and import "OpenCV For Unity".
-    <img src="/images/pack_01_openCV.png" width=680>
+
+   <img src="/images/pack_01_openCV.png" width=680>
+   
 * Set up the system using the setup tool.
 
     <img src="/images/pack_01_openCV_setUp.png" width=480>
