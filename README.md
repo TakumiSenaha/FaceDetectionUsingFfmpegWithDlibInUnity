@@ -24,3 +24,7 @@ In a Unity environment, images streamed using FFmpeg are Mat-converted using Ope
 By setting the URL appropriately, face detection can be performed from streaming video.
 (However, we have confirmed that the delay is quite large.)
 
+It is hard to see, but it detects a face and marks around the face. (All sky equirectangular format)
+
+<img src="/images/FfmpegfaceDetection.gif" width=680>
+
