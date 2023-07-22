@@ -4,6 +4,9 @@ In a Unity environment, images streamed using FFmpeg are Mat-converted using Ope
 ## Environmental Construction
 1. Create a Unity project with a 3D template.
 2. Window→Package Manager → Set "Packages" to "My Assets" in the upper left corner and import "OpenCV For Unity".
+   <p align="center">
+    <img src="/images/pack_01_openCV.png" width=480>
+   </p>
 * Set up the system using the setup tool.
 
 3. Import and setup Dlib Face Landmark Detector in the same way.
