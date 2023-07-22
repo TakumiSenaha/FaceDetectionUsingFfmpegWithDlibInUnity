@@ -17,7 +17,7 @@ In a Unity environment, images streamed using FFmpeg are Mat-converted using Ope
 5. Import [Runtime Inspector & Hierarchy](https://assetstore.unity.com/packages/tools/gui/runtime-inspector-hierarchy-111349).
 6. Import [In-game Debug Console](https://assetstore.unity.com/packages/tools/gui/in-game-debug-console-68068#releases).
 7. Import [FfmpegWithOpenCVForUnityExample.unitypackage](https://github.com/EnoxSoftware/FfmpegWithOpenCVForUnityExample/releases).
-8. Rewrite the C# script named FfplayToMatHelperExample.cs in Assets/FfmpegWithOpenCVForUnityExample/FfplayToMatHelperExample/ (see diagram below) to the code named [FfPlayStreamingFaceDetectionExample.cs](/FfplayStreamingFaceDetectionExample.cs)
+8. Rewrite the C# script named FfplayToMatHelperExample.cs in Assets/FfmpegWithOpenCVForUnityExample/FfplayToMatHelperExample/ (see diagram below) to the code named [FfPlayStreamingFaceDetectionExample.cs](/FfPlayStreamingFaceDetectionExample.cs)
 
    <img src="/images/ProfectPath_FfplayToMatHelper.png" width=680>
 
